@@ -65,7 +65,7 @@
         </record>
 
         <record id="api_rest_action" model="ir.actions.act_window">
-            <field name="name">Vue de test Api</field>
+            <field name="name">VUE TESTE</field>
             <field name="res_model">api.modele</field>
             <field name="view_mode">tree,form</field>
         </record>
